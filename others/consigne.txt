@@ -1,0 +1,26 @@
+*BALISE HEAD*
+-Lier le fichier HTML et CSS
+-Ajouter la police google Anton au projet
+-Renommer le titre en "Mon zoo"
+
+*BALISE HEADER*
+-Mettre la couleur d'arrière-plan en orange
+-Le header possède de la marge interieure
+-Mettre un titre
+-Mettre le titre en blanc
+-Mettre une liste de 3 items
+-Chaque item de la liste est un lien qui amène plus bas dans la page
+-Enlever chaque ligne en dessous de chaque item
+-Enlever les puces de chaque item
+
+
+*BALISE MAIN*
+-La balise MAIN est composé de 3 sections
+-Chaque section possède de la marge interieure
+-Chaque section possède un titre
+-Ce titre est tout en majuscule
+-Ce titre est sous-ligné
+-Ce titre est centré
+
+-Chaque section possède 3 images d'animaux
+-Chaque image est entourée d'une bordure
